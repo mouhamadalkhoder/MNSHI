@@ -662,7 +662,7 @@ h3 {
 
 /* line 122, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_btn.scss */
 .boxed-btn2 {
-  background: transparent;
+  
   color: #fff;
   display: inline-block;
   padding: 18px 24px;
@@ -9163,7 +9163,7 @@ body {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 
-
+  background-color: #ff3414;
 
   border: none;
   cursor: pointer;
@@ -9171,7 +9171,7 @@ body {
   text-align: center;
   font-family: "Open Sans", sans-serif;
     font-weight: 800;
-    background: none;
+ 
     border: 3px solid white;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -9363,3 +9363,7 @@ padding-top:30px
 }
 
 
+.tab1{
+  background-color: #00264A;
+  color: white
+}
